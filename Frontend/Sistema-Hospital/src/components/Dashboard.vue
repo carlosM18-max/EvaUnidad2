@@ -319,7 +319,7 @@
          </div>
       </div>
    </div> -->
-   <Footer></Footer>
+   <Footer ></Footer>
 </div>
 
 </template>
@@ -332,10 +332,3 @@ export default {
 }
 </script>
 
-<style>
-footer{
-   position:fixed;
-   bottom:0;
-   width: 100%;
-}
-</style>
